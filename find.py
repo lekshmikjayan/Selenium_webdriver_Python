@@ -10,7 +10,7 @@ driver = webdriver.Chrome(service=service_obj)
 driver.get("https://rahulshettyacademy.com/dropdownsPractise/")
 
 driver.find_element(By.ID,"autosuggest").send_keys("ua")
-time.sleep(2)
+time.sleep(10)
 countries= driver.find_elements(By.CSS_SELECTOR,"li[class = 'ui-menu-item']a")
 print(len(countries))
 
