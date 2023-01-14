@@ -10,6 +10,9 @@ driver.get("https://rahulshettyacademy.com/seleniumPractise/#/")
 driver.find_element(By.CSS_SELECTOR, ".search-keyword").send_keys("an")
 time.sleep(5)
 results = driver.find_element(By.XPATH, "//div[@class='products']/div")
-count = len(results)
+#count = len(results)
 
-assert count > 1
+#assert count > 0
+for result in results:
+    result.find_element(By.XPATH,"div/button").click()
+time.sleep(15)
