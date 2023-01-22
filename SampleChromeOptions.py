@@ -9,5 +9,5 @@ chrome_options.add_argument("--ignore-certificate-errors")
 service_obj = Service(r'C:\Users\leksh\Downloads\chromedriver_win32\chromedriver.exe');
 driver = webdriver.Chrome(service=service_obj, options=chrome_options)
 
-driver.get("https://rahulshettyacademy.com/angularPractice/")
+driver.get("https://rahulshettyacademy.com/angularPractice/#/")
 print(driver.title)
