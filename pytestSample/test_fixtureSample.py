@@ -7,7 +7,7 @@ def test_pqr():
     assert b + 22 == s, 'yes, it is..'
 
 @pytest.mark.usefixtures("verify")
-class TestExample1:
+class TestExample1():
 
     def test_fixtDemo7(self):
         print("executing steps in this 7 method")
