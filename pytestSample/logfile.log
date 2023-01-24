@@ -1,0 +1,18 @@
+2023-01-23 18:57:43,958 : INFO : pytestSample.test_log : Info msg is displayed
+2023-01-23 18:57:43,958 : WARNING : pytestSample.test_log : warning mode enabled
+2023-01-23 18:57:43,958 : ERROR : pytestSample.test_log : Error Occurred..!!
+2023-01-23 18:57:43,958 : CRITICAL : pytestSample.test_log : This is CRITICAL...
+2023-01-23 19:00:18,616 : INFO : pytestSample.test_log : Info msg is displayed
+2023-01-23 19:00:18,617 : WARNING : pytestSample.test_log : warning mode enabled
+2023-01-23 19:00:18,617 : ERROR : pytestSample.test_log : Error Occurred..!!
+2023-01-23 19:00:18,617 : CRITICAL : pytestSample.test_log : This is CRITICAL...
+2023-01-23 19:02:56,822 : WARNING : pytestSample.test_log : warning mode enabled
+2023-01-23 19:02:56,822 : ERROR : pytestSample.test_log : Error Occurred..!!
+2023-01-23 19:02:56,823 : CRITICAL : pytestSample.test_log : This is CRITICAL...
+2023-01-23 19:24:57,981 : DEBUG : pytestSample.test_log : Debug statement will be executed
+2023-01-23 19:24:57,982 : INFO : pytestSample.test_log : Info msg is displayed
+2023-01-23 19:24:57,982 : WARNING : pytestSample.test_log : warning mode enabled
+2023-01-23 19:24:57,982 : ERROR : pytestSample.test_log : Error Occurred..!!
+2023-01-23 19:24:57,983 : CRITICAL : pytestSample.test_log : This is CRITICAL...
+2023-01-23 19:34:53,499 :INFO : test_createProfile :['Lekshmi', 'K Jayan', 'www.elephant.com']
+2023-01-23 19:34:53,500 :INFO : test_createProfile :K Jayan
