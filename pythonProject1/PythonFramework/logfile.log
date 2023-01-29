@@ -1,0 +1,11 @@
+2023-01-25 18:47:54,761 :INFO : test_formSubmission :first name is Lekshmi
+2023-01-25 18:47:55,708 :INFO : test_formSubmission :first name is Vavva
+2023-01-25 18:47:55,708 :INFO : test_formSubmission :first name is Vavva
+2023-01-25 18:47:59,616 :INFO : test_e2e :Obtaining all card titles
+2023-01-25 18:47:59,663 :INFO : test_e2e :iphone X
+2023-01-25 18:47:59,685 :INFO : test_e2e :Samsung Note 8
+2023-01-25 18:47:59,712 :INFO : test_e2e :Nokia Edge
+2023-01-25 18:47:59,740 :INFO : test_e2e :Blackberry
+2023-01-25 18:48:00,082 :INFO : test_e2e :Entering country name as ind
+2023-01-25 18:48:05,745 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
