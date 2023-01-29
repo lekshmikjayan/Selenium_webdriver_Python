@@ -25,7 +25,7 @@ class TestHomePage(BaseClass):
         assert ("Success" in alertText)
         self.driver.refresh()
 
-    @pytest.fixture(params=HomePageData.getTestData(5))
+    @pytest.fixture(params=HomePageData.test_HomePage_data)
     def getData(self, request):
         return request.param
 
